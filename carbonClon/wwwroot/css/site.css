@@ -24,7 +24,97 @@ body {
 }
 
 #cntBotonSing {
-    padding: 0 2em 0 0;
+    padding: 0 2em 0 0em;
 }
+
+#cajaPrincipalHerramientasEditor {
+           /*up right down left */
+    padding: 2em 7em 0em 7em;
+}
+
+#cajaBordesBlancos {
+    padding: 1em 1em 1em 1em;
+}
+
+#cajaHerramientas {
+    padding: 0em 0em 1em 0em;
+}
+
+#editorTexto {
+    padding: 3em 3em 3em 3em;
+    background-color: #4A90E2;
+}
+
+
+#xd {
+    padding: 0em 0em 0em 5px;
+}
+
+#botonLenguaje {
+    /*up right down left */
+    border-radius: 0px 3px 3px 0px;
+    width: 216px;
+    border-left: none;
+    text-align: left;
+}
+#botonTema {
+    border-radius: 0px 3px 3px 0px;
+    width: 216px;
+    border-left: none;
+    text-align: left;
+}
+
+#botonColor{
+    width:40px;
+    height:38px;
+}
+
+#flechaBotonExport {
+    width: 10px;
+    text-align: left;
+}
+
+#botonSinBordes{
+    border:none;
+}
+#botonSinBordesColor1 {
+    background-color: #4A90E2;
+    width: 40px;
+    height: 38px;
+}
+#botonSinBordesColor2 {
+    background-color: #F8E81C;
+    width: 40px;
+    height: 38px;
+}
+
+#texto {
+    font-family:'Cascadia Code';
+    border-radius: 4px;
+    resize: none;
+    height: 330px;
+    background-color: #2A2734;
+    color: #FFCC99;
+    border:none;
+}
+#palabrasFinal {
+    /*up right down left */
+    width:60px;
+    height:35px;
+}
+
+#botonTweet {
+    color: #57B5F9;
+    border-color: #57B5F9;
+}
+
+#botonExport {
+    color: #C198FB;
+    border-color: #C198FB;
+}
+/* para cuando el cursor este sobre el boton
+.dropdown-content a:hover {
+    background-color: #ddd;
+}*/
 
 
